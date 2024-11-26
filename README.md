@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ziziomah
+- 👀 I’m interested in Crypto and programming.
+- 🌱 I’m currently learning reactjs.
+- 💞️ I’m looking to collaborate on web3 projects.
